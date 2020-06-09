@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("utils", "read.csv", "write.csv", "untar", "unzip")
+importFrom("magrittr", "%>%")
